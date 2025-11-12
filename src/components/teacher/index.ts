@@ -1,0 +1,1 @@
+export { TeacherCourseManagement } from './TeacherCourseManagement';
